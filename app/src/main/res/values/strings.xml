@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WordGame</string>
+    <string name="success">Congratulation！</string>
+    <string name="failure">You lose！</string>
+    <string name="play_again">Play Again?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Back</string>
+</resources>
